@@ -1,10 +1,12 @@
-Nächste Woche: jede Gruppe soll Abstract schreiben, was sie machen wollen und übernächste Woche abgeben (12.11.)
-Konrad Körding schlägt das in seinem Paper vor - dieses Paper lesen und eigene Planung aufstellen
-Was wäre das schönste was herauskommen könnte in diesem Semester?
+NÃ¤chste Woche: jede Gruppe soll Abstract schreiben, was sie machen wollen und Ã¼bernÃ¤chste Woche abgeben (12.11.)
+Konrad KÃ¶rding schlÃ¤gt das in seinem Paper vor - dieses Paper lesen und eigene Planung aufstellen
+Was wÃ¤re das schÃ¶nste was herauskommen kÃ¶nnte in diesem Semester?
 
 https://towardsdatascience.com/how-to-find-wally-neural-network-eddbb20b0b90
-Neuronales netz, das Wally findet (evtl. Features finden, die für Erkennung relevant sind)
+Neuronales netz, das Wally findet (evtl. Features finden, die fÃ¼r Erkennung relevant sind)
 
 inkl. graphische Darstellung von gefundenem Waldo oder das von Blog auf towardsscience
 
 Abstract: 
+Ziel: Wally finden
+Methode: Mithilfe eines neuronalen Netzes
